@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Weather Forecast</title>
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="container">
+            <div id="currentLocation">
+            </div>
+            <div class="cards"></div>
+            <div class="search-box">
+                <div class="search-wrapper">
+                    <input type="text" id="searchQuery" placeholder="Enter city name...">
+                    <button id="searchButton"><img src="./assets/search-icon.svg" alt="search icon"></button>
+                </div>
+                <div id="dropdown"></div>
+            </div>
+            <div id="weatherWrapper">
+                <div id="weatherContainer">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="gradientBox">
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js"></script>
+    <script type="module" src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,114 @@
+{
+    "0": {
+        "description": "Clear sky",
+        "path": "./assets/weather_icons/clear_sky.svg"
+    },
+    "1": {
+        "description": "Mainly clear",
+        "path": "./assets/weather_icons/mainly_clear.svg"
+    },
+    "2": {
+        "description": "Partly cloudy",
+        "path": "./assets/weather_icons/partly-cloudy.svg"
+    },
+    "3": {
+        "description": "Overcast",
+        "path": "./assets/weather_icons/overcast.svg"
+    },
+    "45": {
+        "description": "Fog",
+        "path": "./assets/weather_icons/fog.svg"
+    },
+    "48": {
+        "description": "Depositing rime fog",
+        "path": "./assets/weather_icons/depositing_rime_fog.svg"
+    },
+    "51": {
+        "description": "Drizzle: Light intensity",
+        "path": "./assets/weather_icons/drizzle.svg"
+    },
+    "53": {
+        "description": "Drizzle: Moderate intensity",
+        "path": "./assets/weather_icons/drizzle.svg"
+    },
+    "55": {
+        "description": "Drizzle: Dense intensity",
+        "path": "./assets/weather_icons/drizzle.svg"
+    },
+    "56": {
+        "description": "Freezing Drizzle: Light intensity",
+        "path": "./assets/weather_icons/freezing_drizzle.svg"
+    },
+    "57": {
+        "description": "Freezing Drizzle: Dense intensity",
+        "path": "./assets/weather_icons/freezing_drizzle.svg"
+    },
+    "61": {
+        "description": "Rain: Slight intensity",
+        "path": "./assets/weather_icons/rain.svg"
+    },
+    "63": {
+        "description": "Rain: Moderate intensity",
+        "path": "./assets/weather_icons/rain.svg"
+    },
+    "65": {
+        "description": "Rain: Heavy intensity",
+        "path": "./assets/weather_icons/extreme_rain.svg"
+    },
+    "66": {
+        "description": "Freezing Rain: Light intensity",
+        "path": "./assets/weather_icons/freezing_drizzle.svg"
+    },
+    "67": {
+        "description": "Freezing Rain: Heavy intensity",
+        "path": "./assets/weather_icons/freezing_drizzle.svg"
+    },
+    "71": {
+        "description": "Snow fall: Slight intensity",
+        "path": "./assets/weather_icons/snow.svg"
+    },
+    "73": {
+        "description": "Snow fall: Moderate intensity",
+        "path": "./assets/weather_icons/snow.svg"
+    },
+    "75": {
+        "description": "Snow fall: Heavy intensity",
+        "path": "./assets/weather_icons/snow.svg"
+    },
+    "77": {
+        "description": "Snow grains",
+        "path": "./assets/weather_icons/snow.svg"
+    },
+    "80": {
+        "description": "Rain showers: Slight intensity",
+        "path": "./assets/weather_icons/rain.svg"
+    },
+    "81": {
+        "description": "Rain showers: Moderate intensity",
+        "path": "./assets/weather_icons/rain.svg"
+    },
+    "82": {
+        "description": "Rain showers: Violent intensity",
+        "path": "./assets/weather_icons/rain.svg"
+    },
+    "85": {
+        "description": "Snow showers: Slight intensity",
+        "path": "./assets/weather_icons/rain.svg"
+    },
+    "86": {
+        "description": "Snow showers: Heavy intensity",
+        "path": "./assets/weather_icons/rain.svg"
+    },
+    "95": {
+        "description": "Thunderstorm: Slight or moderate",
+        "path": "./assets/weather_icons/thunderstorms.svg"
+    },
+    "96": {
+        "description": "Thunderstorm: Slight hail",
+        "path": "./assets/weather_icons/thunderstorms.svg"
+    },
+    "99": {
+        "description": "Thunderstorm: Heavy hail",
+        "path": "./assets/weather_icons/thunderstorms.svg"
+    }
+}
